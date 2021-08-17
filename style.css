@@ -60,7 +60,7 @@ body.dark-theme{
 .change-theme{
     position: absolute;
     right: 300;
-    top: 12.4rem;
+    top: 12.5rem;
     display: flex;
     color: var(--text-color);
     font-size: 1.2rem;
